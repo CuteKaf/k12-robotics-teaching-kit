@@ -12,6 +12,7 @@
 - 教师讲义
 - 家长/招生说明材料
 - 课程项目轻量化设计与迭代方案
+- 视频制作方法论与执行模板
 
 ## 教学理念
 
@@ -40,6 +41,14 @@ k12-robotics-teaching-kit/
 │   ├── preclass/
 │   ├── inclass-support/
 │   └── review/
+├── video-production/
+│   ├── README.md
+│   ├── why-video-is-supporting-not-main.md
+│   ├── what-to-film-and-what-not-to-film.md
+│   ├── video-types-for-offline-robotics-course.md
+│   ├── recording-workflow.md
+│   ├── editing-workflow.md
+│   └── template-for-each-video.md
 ├── project-design/
 │   ├── lightweight-project-principles.md
 │   └── lightweight-robotics-course-architecture.md
@@ -52,6 +61,7 @@ k12-robotics-teaching-kit/
 ### 对老师
 - 先看 `curriculum/course-outline.md`
 - 再看 `curriculum/offline-teaching-package-v1.md`
+- 再看 `video-production/` 理清视频策略
 - 再看 `project-design/` 里的轻量化方案
 - 每次备课参考 `handouts/teacher-notes/`
 
@@ -65,5 +75,6 @@ k12-robotics-teaching-kit/
 
 ## 当前版本
 
-- v0.2：课程框架、线下教学包、轻量化方向说明、基础任务单模板
+- v0.3：课程框架、线下教学包、轻量化方向说明、视频制作专区、基础任务单模板
+
 
