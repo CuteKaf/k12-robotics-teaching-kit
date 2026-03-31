@@ -11,7 +11,7 @@
 - 学生任务单
 - 教师讲义
 - 家长/招生说明材料
-- 与 `sort_trash` 项目的工程映射
+- 课程项目轻量化设计与迭代方案
 
 ## 教学理念
 
@@ -21,6 +21,7 @@
 - **线下主导**：高价值部分在线下完成，例如装配、调试、排错、理解工程逻辑
 - **视频辅助**：视频负责标准化讲解、课前预习、课后复盘、漏课补看
 - **项目驱动**：以真实机器人项目为载体，强调“能跑通、能解释、能展示”
+- **先轻后重**：先做适合教学的轻量版，再逐步走向复杂闭环
 
 ## 仓库结构
 
@@ -39,9 +40,9 @@ k12-robotics-teaching-kit/
 │   ├── preclass/
 │   ├── inclass-support/
 │   └── review/
-├── project-integration/
-│   ├── sort-trash-mapping.md
-│   └── environment-setup.md
+├── project-design/
+│   ├── lightweight-project-principles.md
+│   └── lightweight-robotics-course-architecture.md
 ├── assets/
 └── slides/
 ```
@@ -51,6 +52,7 @@ k12-robotics-teaching-kit/
 ### 对老师
 - 先看 `curriculum/course-outline.md`
 - 再看 `curriculum/offline-teaching-package-v1.md`
+- 再看 `project-design/` 里的轻量化方案
 - 每次备课参考 `handouts/teacher-notes/`
 
 ### 对学生
@@ -63,4 +65,5 @@ k12-robotics-teaching-kit/
 
 ## 当前版本
 
-- v0.1：课程框架、线下教学包、项目映射、基础任务单模板
+- v0.2：课程框架、线下教学包、轻量化方向说明、基础任务单模板
+
